@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  AFReach
+//
+//  Created by stan on 2020/8/27.
+//  Copyright © 2020 pd. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <SystemConfiguration/SystemConfiguration.h>
+#import <MobileCoreServices/MobileCoreServices.h>
+#define AFNETWORKING_ALLOW_INVALID_SSL_CERTIFICATES
+
+
+
+#endif /* PrefixHeader_pch */

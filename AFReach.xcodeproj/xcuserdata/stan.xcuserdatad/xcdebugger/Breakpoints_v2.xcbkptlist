@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "78EABBC6-09B9-4E25-9178-64E1E015BB6C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD93B684-A5ED-471A-AB7A-42F498DE76FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AFReach/SC_HTTP/SC_JSON/SC_JSON.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "-postWithHost:method:parameters:wellDone:error:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FD93B684-A5ED-471A-AB7A-42F498DE76FA - 90d1e8814e9dd3cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SC_JSON postWithHost:method:parameters:wellDone:error:]"
+                  moduleName = "AFReach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stan/Documents/Elements/StanStudy/iOS%E8%87%AA%E5%B7%B1Dome/46.AFReach-master/AFReach/SC_HTTP/SC_JSON/SC_JSON.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "567">
+               </Location>
+               <Location
+                  uuid = "FD93B684-A5ED-471A-AB7A-42F498DE76FA - 26fbfe8b7ef30c11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__57-[SC_JSON postWithHost:method:parameters:wellDone:error:]_block_invoke"
+                  moduleName = "AFReach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stan/Documents/Elements/StanStudy/iOS%E8%87%AA%E5%B7%B1Dome/46.AFReach-master/AFReach/SC_HTTP/SC_JSON/SC_JSON.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "141">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
